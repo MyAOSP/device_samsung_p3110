@@ -1,0 +1,3 @@
+lib/libril.so
+lib/libsecril-client.so
+lib/hw/sensors.omap4.so
